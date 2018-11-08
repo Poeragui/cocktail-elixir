@@ -10,8 +10,8 @@ package elixir.test;
  * @author NIUAITI
  */
 public class Commande {
-    private int numero;
-    private int prix;
+    int numero;
+     int prix;
     
     //constructeur par argument
     public Commande(int numero, int prix) {
